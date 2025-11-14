@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+youtube-transcript-api
+google-generativeai
+streamlit
+openai-whisper
+pydub
+torch
